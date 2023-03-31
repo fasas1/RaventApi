@@ -21,7 +21,8 @@ namespace RaveEnterprise.Data
                      PictureUrl = "https://www.pexels.com/photo/white-concrete-2-storey-house-206172/",
                      Brand = "Net Core",
                      Type = "Boot",
-                     QuantityInStock = 100
+                     QuantityInStock = 100,
+                     CreatedDate = DateTime.Now
                  },
                    new Rave
                    {
@@ -32,7 +33,8 @@ namespace RaveEnterprise.Data
                        PictureUrl = "https://www.pexels.com/photo/palm-trees-at-night-258154/",
                        Brand = "Net Core",
                        Type = "Boot",
-                       QuantityInStock = 100
+                       QuantityInStock = 100,
+                       CreatedDate = DateTime.Now
                    },
                     new Rave
                     {
@@ -43,7 +45,8 @@ namespace RaveEnterprise.Data
                         PictureUrl = "https://www.pexels.com/photo/white-concrete-2-storey-house-206172/",
                         Brand = "Redis",
                         Type = "Boot",
-                        QuantityInStock = 100
+                        QuantityInStock = 100,
+                        CreatedDate = DateTime.Now
                     },
             new Rave
             {
@@ -54,7 +57,8 @@ namespace RaveEnterprise.Data
                 PictureUrl = "https://www.pexels.com/photo/palm-trees-at-night-258154/",
                 Brand = "Net Core",
                 Type = "Boot",
-                QuantityInStock = 100
+                QuantityInStock = 100,
+                CreatedDate = DateTime.Now
             },
             new Rave
             {
@@ -65,7 +69,8 @@ namespace RaveEnterprise.Data
                 PictureUrl = "https://www.pexels.com/photo/construction-house-architecture-luxury-53610/",
                 Brand = "DELL G5",
                 Type = "Angular",
-                QuantityInStock = 100
+                QuantityInStock = 100,
+                CreatedDate = DateTime.Now
             },
              new Rave
              {
@@ -76,7 +81,8 @@ namespace RaveEnterprise.Data
                  PictureUrl = "https://www.pexels.com/photo/construction-house-architecture-luxury-53610/",
                  Brand = "Net Core",
                  Type = "Boot",
-                 QuantityInStock = 100
+                 QuantityInStock = 100,
+                 CreatedDate = DateTime.Now
              },
             new Rave
             {
@@ -87,7 +93,8 @@ namespace RaveEnterprise.Data
                 PictureUrl = "https://www.pexels.com/photo/architecture-beach-blue-chairs-261101/",
                 Brand = "DELL G5",
                 Type = "Angular",
-                QuantityInStock = 100
+                QuantityInStock = 100,
+                CreatedDate = DateTime.Now
             },
              new Rave
              {
@@ -98,7 +105,8 @@ namespace RaveEnterprise.Data
                  PictureUrl = "https://www.pexels.com/photo/architecture-beach-blue-chairs-261101/",
                  Brand = "Net Core",
                  Type = "Boot",
-                 QuantityInStock = 100
+                 QuantityInStock = 100,
+                 CreatedDate = DateTime.Now
              },
              new Rave
              {
@@ -109,7 +117,8 @@ namespace RaveEnterprise.Data
                  PictureUrl = "https://www.pexels.com/photo/construction-house-architecture-luxury-53610/",
                  Brand = "Net Core",
                  Type = "Boot",
-                 QuantityInStock = 100
+                 QuantityInStock = 100,
+                 CreatedDate = DateTime.Now
              },
               new Rave
               {
@@ -120,7 +129,8 @@ namespace RaveEnterprise.Data
                   PictureUrl = "https://www.pexels.com/photo/architecture-beach-blue-chairs-261101/",
                   Brand = "Net Core",
                   Type = "Boot",
-                  QuantityInStock = 100
+                  QuantityInStock = 100,
+                  CreatedDate = DateTime.Now
               }
 
           );
