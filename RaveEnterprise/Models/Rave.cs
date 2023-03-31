@@ -16,5 +16,6 @@ namespace RaveEnterprise.Models
         public string? Brand { get; set; }
         public int QuantityInStock { get; set; }
         public DateTime CreatedDate { get; set; }
+        public DateTime UpdatedDate { get; set; }
     }
 }
